@@ -1,6 +1,6 @@
 print("SNAKE_WATER_GUN")
 humanPoint = 0
-computer_point = 0
+computerPoint = 0
 i = 9
 while i >= 1:
     import random
