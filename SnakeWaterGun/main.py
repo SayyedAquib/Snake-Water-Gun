@@ -1,5 +1,5 @@
 print("SNAKE_WATER_GUN")
-human_point = 0
+humanPoint = 0
 computer_point = 0
 i = 9
 while i >= 1:
