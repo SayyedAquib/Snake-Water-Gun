@@ -30,7 +30,7 @@ while i >= 1:
         print("You lose.")
         computer_point += 1
     else:
-        print("Please type valid input.")
+        print("Please_type_valid_input.")
 
     print(f"{i} chances are left out of 10")
     i -= 1
