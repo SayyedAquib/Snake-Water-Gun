@@ -12,22 +12,22 @@ while i >= 1:
     if a == choice:
         print("DRAW")
     elif a == "s" and choice == "w":
-        print("You win.")
+        print("You_win.")
         human_point += 1
     elif a == "s" and choice == "g":
-        print("You lose.")
+        print("You_lose.")
         computer_point += 1
-    elif a == "w" and choice == "s":
-        print("You lose.")
+    elif a == "w" and chice == "s":
+        print("You_lose.")
         computer_point += 1
     elif a == "w" and choice == "g":
-        print("You win.")
+        print("You_win.")
         human_point += 1
     elif a == "g" and choice == "s":
-        print("You win.")
+        print("You_win.")
         human_point += 1
     elif a == "g" and choice == "w":
-        print("You lose.")
+        print("You_lose.")
         computer_point += 1
     else:
         print("Please_type_valid_input.")
